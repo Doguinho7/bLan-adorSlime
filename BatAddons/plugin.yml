@@ -1,0 +1,7 @@
+name: BatAddons
+version: 1.0
+main: me.doguinho.addons.Main
+description: Plugin de Addons para SkyWars
+commands:
+  lancador:
+  

@@ -1,0 +1,10 @@
+Configuration:
+   Frente: 3
+   Altura: 1
+   
+Item:
+   ID: 401
+   Data: 0
+   Nome: "§6Lançador"
+   Lore:
+   - "§7Utilize esse item estrategicamente!"
